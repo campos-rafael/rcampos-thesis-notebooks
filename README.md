@@ -5,9 +5,9 @@
 Computational companions for the PhD thesis:
 **GPU-Accelerated Isogeometric Cloth Simulation on Watertight Surfaces**
 
-Rafael Cerqueira de Campos
-Instituto de Ciencias Matematicas e de Computacao (ICMC)
-Universidade de Sao Paulo
+Rafael Cerqueira de Campos  
+Instituto de Ciencias Matematicas e de Computacao (ICMC-USP)  
+Universidade de Sao Paulo  
 
 ## Contents
 
