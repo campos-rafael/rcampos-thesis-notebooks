@@ -1,13 +1,11 @@
 # Thesis Supplementary Notebooks
 
-[![Complete Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/campos-rafael/rcampos-thesis-notebooks/HEAD)
-
 Computational companions for the PhD thesis:
 **GPU-Accelerated Isogeometric Cloth Simulation on Watertight Surfaces**
 
 Rafael Cerqueira de Campos  
-Instituto de Ciencias Matematicas e de Computacao (ICMC-USP)  
-Universidade de Sao Paulo  
+Instituto de Ciências Matemáticas e de Computação (ICMC-USP)  
+Universidade de São Paulo  
 
 ## Contents
 
