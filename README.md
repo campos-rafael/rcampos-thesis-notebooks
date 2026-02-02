@@ -14,8 +14,7 @@ Universidade de Sao Paulo
 | Launch   | Notebook | Chapter | Description |
 |----------|----------|---------|-------------|
 |[![Var. Formulation](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/campos-rafael/rcampos-thesis-notebooks/HEAD?filepath=ch4-variational-formulation.ipynb) | `ch4-variational-formulation.ipynb` | Chapter 4 | Derivation of the Kirchhoff-Love shell weak form with symbolic verification |
-|
-[![Strain Derivation](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/campos-rafael/rcampos-thesis-notebooks/HEAD?filepath=appendixB-strain-derivationipynb.ipynb)| `appendixB-strain-derivationipynb.ipynb` | Appendix B | First variations of strain measures following Kiendl et al. (2015) |
+|[![Strain Derivation](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/campos-rafael/rcampos-thesis-notebooks/HEAD?filepath=appendixB-strain-derivationipynb.ipynb) | `appendixB-strain-derivationipynb.ipynb` | Appendix B | First variations of strain measures following Kiendl et al. (2015) |
 
 ## Requirements
 
